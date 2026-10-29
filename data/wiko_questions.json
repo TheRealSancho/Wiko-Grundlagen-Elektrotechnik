@@ -1,0 +1,2401 @@
+{
+  "tf_questions": [
+    {
+      "id": "P3_1",
+      "page": 3,
+      "type": "tf",
+      "text": "Der elektrische Widerstand kann durch keine physikalische Größen beeinflusst werden.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P3_2",
+      "page": 3,
+      "type": "tf",
+      "text": "Technisch angewendet werden druck-, temperatur-, licht-, magnetfeld- und spannungsabhängige Widerstände.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P3_3",
+      "page": 3,
+      "type": "tf",
+      "text": "Temperaturabhängige Widerstände unterteilt man je nach Verhalten in Heißleiter bzw. Kaltleiter.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P3_4",
+      "page": 3,
+      "type": "tf",
+      "text": "Entsprechende Bauelemente werden als PTC- bzw. NTC- Widerstand bezeichnet.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P3_5",
+      "page": 3,
+      "type": "tf",
+      "text": "Ein Kaltleiter ist im kalten Zustand nicht leitend.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P3_6",
+      "page": 3,
+      "type": "tf",
+      "text": "Ein Kaltleiter hat einen positiven Temperaturkoeffizient, der bei Zunahme der Temperatur eine Zunahme des Widerstandes bewirkt.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P3_7",
+      "page": 3,
+      "type": "tf",
+      "text": "Ein Heißleiter ist im heißen Zustand nicht leitend.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P3_8",
+      "page": 3,
+      "type": "tf",
+      "text": "Ein Heißleiter hat einen negativen Temperaturkoeffizienten, der bei Zunahme der Temperatur eine Abnahme des Widerstandes bewirkt.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P4_1",
+      "page": 4,
+      "type": "tf",
+      "text": "Als Quellenspannung, Urspannung oder Leerlaufspannung U0 bezeichnet man die in einer Spannungsquelle entstehende, von der Strombelastung unabhängige Spannung.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P4_2",
+      "page": 4,
+      "type": "tf",
+      "text": "Bei einer idealen Spannungsquelle ist immer UKl ≠ U0.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P4_3",
+      "page": 4,
+      "type": "tf",
+      "text": "Die Klemmenspannung UKl einer realen Spannungsquelle wird dagegen mit zunehmendem Laststrom größer, da am Innenwiderstand Ri ein Spannungsfall auftritt.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P4_4",
+      "page": 4,
+      "type": "tf",
+      "text": "Bei kurzgeschlossenen Klemmen wird die Spannungsquelle mit dem größtmöglichen Strom, dem Kurzschlussstrom IK belastet.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P4_5",
+      "page": 4,
+      "type": "tf",
+      "text": "Eine Konstantspannungsquelle liefert eine von der Belastung abhängige Klemmenspannung. Diese Bedingung trifft zu, wenn der Innenwiderstand gegenüber dem Lastwiderstand groß ist (Ri >>RL).",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P4_6",
+      "page": 4,
+      "type": "tf",
+      "text": "Eine Konstantstromquelle liefert eine vom Lastwiderstand abhängigen Strom. Diese Bedingung trifft zu, wenn der Innenwiderstand gegenüber dem Lastwiderstand klein ist (Ri << RL).",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P4_7",
+      "page": 4,
+      "type": "tf",
+      "text": "Durch eine Reihenschaltung von Spannungsquellen verringert man die Spannung.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P4_8",
+      "page": 4,
+      "type": "tf",
+      "text": "Durch eine Parallelschaltung von Spannungsquellen verringert man die Strombelastbarkeit.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P5_1",
+      "page": 5,
+      "type": "tf",
+      "text": "Bei Kenntnis des Lastwiderstandes kann die Ausgangsspannung am belasteten Spannungsteiler durch die Bildung eines Ersatzwiderstandes bestimmt werden.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P5_2",
+      "page": 5,
+      "type": "tf",
+      "text": "Der Ersatzwiderstand wird aus der Reihenschaltung von Last- und Spannungsteilerwiderstand berechnet.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P5_3",
+      "page": 5,
+      "type": "tf",
+      "text": "Um die Verringerung der Ausgangsspannung nach Anschalten des Lastwiderstandes klein zu halten, ist es üblich, die Widerstände des Spannungsteilers so auszulegen, dass der Spannungsteilerquerstrom 3 bis 10 mal so groß ist wie der Laststrom.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P5_4",
+      "page": 5,
+      "type": "tf",
+      "text": "Ist der Laststrom bekannt, kann die Ausgangsspannung am belasteten Spannungsteiler durch Bildung einer Ersatzspannungsquelle berechnet werden.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P5_5",
+      "page": 5,
+      "type": "tf",
+      "text": "Für die Ersatzspannungsquelle müssen die Leerlaufspannung UA0, der Innenwiderstand Ri sowie die Brückenspannung UAB bestimmt werden.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P5_6",
+      "page": 5,
+      "type": "tf",
+      "text": "Mit den Größen der Ersatzspannungsquelle können beide Widerstände eines Spannungsteilers berechnet werden, wenn bei einer vorgegebenen Leerlaufspannung die Ausgangsspannung nur auf einen bestimmten Wert durch die gegebene Belastung absinken darf.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P6_1",
+      "page": 6,
+      "type": "tf",
+      "text": "Eine Brückenschaltung besteht aus zwei in Reihe geschalteten Spannungsteilern.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P6_2",
+      "page": 6,
+      "type": "tf",
+      "text": "Bei der abgeglichenen Brückenschaltung ist das Verhältnis der Widerstände für beide Spannungsteiler gleich. R1/R2 = R3/R4",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P6_3",
+      "page": 6,
+      "type": "tf",
+      "text": "Bei der abgeglichenen Brückenschaltung ist die Brückenspannung zwischen den Klemmen der Spannungsteiler ungleich 0V. Uab ≠ 0V",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P6_4",
+      "page": 6,
+      "type": "tf",
+      "text": "Die abgeglichene Brückenschaltung wird in der Praxis zur Bestimmung von Widerständen benutzt.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P6_5",
+      "page": 6,
+      "type": "tf",
+      "text": "Schwankungen der Betriebsspannung haben einen großen Einfluss auf den Nullabgleich.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P6_6",
+      "page": 6,
+      "type": "tf",
+      "text": "In der unabgeglichenen Brückenschaltung sind die Spannungsteilerverhältnisse ungleich, so dass eine Brückenspannung entsteht.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P6_7",
+      "page": 6,
+      "type": "tf",
+      "text": "Die unabgeglichene Wheatstone-Brückenschaltung wird oft als Messwertumformer verwendet.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P6_8",
+      "page": 6,
+      "type": "tf",
+      "text": "Äußere Störeinflüsse haben einen enormen Einfluss auf die Messung.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P8_1",
+      "page": 8,
+      "type": "tf",
+      "text": "Arbeit ist eine Tätigkeit mit einem bestimmten Nutzen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P8_2",
+      "page": 8,
+      "type": "tf",
+      "text": "Mechanische Arbeit ist das Produkt aus Kraft und Weg.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P8_3",
+      "page": 8,
+      "type": "tf",
+      "text": "Bei der Hubarbeit entspricht F der Gewichtskraft G und s dem Höhenunterschied ∆h (Whub = G * ∆h).",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P8_4",
+      "page": 8,
+      "type": "tf",
+      "text": "Energie ist gespeicherte Arbeit.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P8_5",
+      "page": 8,
+      "type": "tf",
+      "text": "Unterschiedliche Energieformen sind nicht ineinander umwandelbar.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P8_6",
+      "page": 8,
+      "type": "tf",
+      "text": "Obwohl nur Wandlung elektrischer Energie möglich ist, wird von Erzeuger, Verbraucher und Verlust gesprochen.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P8_7",
+      "page": 8,
+      "type": "tf",
+      "text": "Elektrische Energie ist von Stromstärke, Spannung und Zeit unabhängig.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P8_8",
+      "page": 8,
+      "type": "tf",
+      "text": "Energiezähler messen die elektrisch geleistete Arbeit.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P8_9",
+      "page": 8,
+      "type": "tf",
+      "text": "Mechanische Energie, Licht- und Wärmeenergie sind wichtige Energieformen, aus denen und in die elektrische Energie nicht umgewandelt werden kann.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P9_1",
+      "page": 9,
+      "type": "tf",
+      "text": "Leistung ist die in einer bestimmten Zeit verrichtete Arbeit.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P9_2",
+      "page": 9,
+      "type": "tf",
+      "text": "Mechanische Leistung und Drehmoment von Motoren lassen sich nicht ineinander umrechnen.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P9_3",
+      "page": 9,
+      "type": "tf",
+      "text": "Elektrische Leistung wird von Spannung und Stromstärke bestimmt.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P9_4",
+      "page": 9,
+      "type": "tf",
+      "text": "Elektrische Leistung kann direkt mit Leistungsmessgeräten gemessen oder über den Elektronen-Energiezähler bestimmt werden.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P9_5",
+      "page": 9,
+      "type": "tf",
+      "text": "Die aufgenommene Leistung eines Elektrogerätes wird von seinem Widerstand und dem Quadrat der angelegten Spannung bestimmt.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P9_6",
+      "page": 9,
+      "type": "tf",
+      "text": "Nennleistung ist eine Beziehungsgröße, die im Betrieb bei jeder Spannung aufgenommen wird.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P9_7",
+      "page": 9,
+      "type": "tf",
+      "text": "Durch einen Vorwiderstand kann die Leistungsaufnahme eines elektrischen Gerätes erhöht werden.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P9_8",
+      "page": 9,
+      "type": "tf",
+      "text": "Der Quotient aus zugeführter Energie (oder Leistung) und abgegebener Energie (oder Leistung) heißt Wirkungsgrad.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P9_9",
+      "page": 9,
+      "type": "tf",
+      "text": "Der Wirkungsgrad ist stets größer 1 bzw. größer als 100 %.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P10_1",
+      "page": 10,
+      "type": "tf",
+      "text": "Einer Spannungsquelle kann die maximal mögliche Leistung entnommen werden, wenn der Lastwiderstand ungleich dem Innenwiderstand ist (RL ≠ Ri) – Leistungsanpassung.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P10_2",
+      "page": 10,
+      "type": "tf",
+      "text": "Der Wirkungsgrad ist hoch, wenn der Lastwiderstand viel kleiner als der Innenwiderstand ist (RL << Ri) – Spannungsanpassung.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P10_3",
+      "page": 10,
+      "type": "tf",
+      "text": "Ist der Innenwiderstand viel kleiner als der Lastwiderstand (Ri <<RL), fließt ein nahezu konstanter, vom Lastwiderstand unabhängiger Strom – Stromanpassung.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P10_4",
+      "page": 10,
+      "type": "tf",
+      "text": "Der Wirkungsgrad ist bei der Stromanpassung hoch.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P11_1",
+      "page": 11,
+      "type": "tf",
+      "text": "Die Pegelrechnung wird in der Nachrichten- und Antennentechnik nicht angewendet.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P11_2",
+      "page": 11,
+      "type": "tf",
+      "text": "Übertragungsglieder in der Nachrichten- und Antennentechnik können verstärkend oder dämpfend wirken.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P11_3",
+      "page": 11,
+      "type": "tf",
+      "text": "Der Pegel ist der Logarithmus des Verhältnisses von Leistungs-, Spannungs- oder Stromwerten und wird in Dezibel (dB) angegeben.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P11_4",
+      "page": 11,
+      "type": "tf",
+      "text": "Beim absoluten Pegel wird eine genormte Bezugsgröße verwendet.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P12_1",
+      "page": 12,
+      "type": "tf",
+      "text": "Temperaturmessungen erfolgen in Grad Celsius.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P12_2",
+      "page": 12,
+      "type": "tf",
+      "text": "Temperaturdifferenzen werden in Coulomb angegeben.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P12_3",
+      "page": 12,
+      "type": "tf",
+      "text": "Die Wärmemenge wird berechnet mit Q = m * c * ∆υ.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P12_4",
+      "page": 12,
+      "type": "tf",
+      "text": "Die spezifische Wärme c in kJ/(kgK) ist eine Variable.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P12_5",
+      "page": 12,
+      "type": "tf",
+      "text": "Beim Mischen von Flüssigkeiten ist die abgegebene Wärmemenge ungleich der aufgenommenen Wärmemenge, dabei stellt sich die Mischtemperatur υm ein.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P12_6",
+      "page": 12,
+      "type": "tf",
+      "text": "Wärmeausbreitung erfolgt durch Wärmeleitung, Wärmeströmung oder Wärmestrahlung.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P13_1",
+      "page": 13,
+      "type": "tf",
+      "text": "Das Ausrichten von Atomen, Molekülen und Bezirken eines Isolators im elektrischen Kraftfeld nennt man Polarisation.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P13_2",
+      "page": 13,
+      "type": "tf",
+      "text": "Vakuum ist magnetfrei und seine Permittivität ε0 wird als Bezugspunkt genutzt.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P13_3",
+      "page": 13,
+      "type": "tf",
+      "text": "Jeder Isolierwerkstoff hat die kleinere relative Permittivität εr. Es gilt ε = ε0 * εr",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P13_4",
+      "page": 13,
+      "type": "tf",
+      "text": "Unter Influenz versteht man das Verschieben beweglicher Elektronen in Leiterwerkstoffen, die sich in einem elektrischen Kraftfeld befinden.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P13_5",
+      "page": 13,
+      "type": "tf",
+      "text": "Metallische Hohlkörper sind im Inneren feldfrei (Faradayscher Käfig), also können diese nicht zur Schirmung elektrischer Felder benutzt werden.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P13_6",
+      "page": 13,
+      "type": "tf",
+      "text": "Werden Isolierstoffe mit großen Feldstärken belastet, dann kann durch Stoßionisation ein Durchbruch entstehen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P13_7",
+      "page": 13,
+      "type": "tf",
+      "text": "Die Durchschlagfestigkeit ED = UD / I gibt die Feldstärke an, bei der schon ein Durchschlag erfolgt.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P14_1",
+      "page": 14,
+      "type": "tf",
+      "text": "Die Kapazität eines Kondensators ist umgekehrt proportional zur Größe der wirksamen Fläche A.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P14_2",
+      "page": 14,
+      "type": "tf",
+      "text": "Die Kapazität eines Kondensators ist direkt proportional zum Abstand der Flächen, das heißt, ein großer Abstand ergibt eine große Kapazität.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P14_3",
+      "page": 14,
+      "type": "tf",
+      "text": "Der Isolierstoff mit seiner relativen Permittivität εr ist umgekehrt proportional zur Kapazität eines Kondensators, das heißt, ein kleiner Wert von εr hat ein große Kapazität zur Folge.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P14_4",
+      "page": 14,
+      "type": "tf",
+      "text": "Die Formel zur Berechnung der Kapazität lautet: C = ε0 * εr * A/l",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P14_5",
+      "page": 14,
+      "type": "tf",
+      "text": "Ein Kondensator speichert Energie.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P14_6",
+      "page": 14,
+      "type": "tf",
+      "text": "Ein Kondensator ist nach der Aufladung für Gleichstrom durchlässig.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P14_7",
+      "page": 14,
+      "type": "tf",
+      "text": "Das Schalten von Kondensatoren an Gleichspannung unterschiedlicher Polarität ergibt einen Wechselstrom.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P14_8",
+      "page": 14,
+      "type": "tf",
+      "text": "Die Spannung am Kondensator ist proportional der zugeführten Ladungsmenge. U ~ Q",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P15_1",
+      "page": 15,
+      "type": "tf",
+      "text": "Bei der Reihenschaltung von Kondensatoren ist die Gesamtkapazität gleich der Summe der Einzelkapazitäten.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P15_2",
+      "page": 15,
+      "type": "tf",
+      "text": "Bei der Parallelschaltung von Kondensatoren verringert sich die Gesamtkapazität. Sie ist immer kleiner als die kleinste Einzelkapazität.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P15_3",
+      "page": 15,
+      "type": "tf",
+      "text": "Bei der Reihenschaltung tritt an der größten Kapazität die größte Teilspannung auf.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P15_4",
+      "page": 15,
+      "type": "tf",
+      "text": "Durch die Reihenschaltung von Kondensatoren lassen sich kapazitive Spannungsteiler aufbauen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P15_5",
+      "page": 15,
+      "type": "tf",
+      "text": "τ ist die Zeit, in der sich die elektrischen Größen immer um 63% - bezogen auf den Endwert – ändern.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P15_6",
+      "page": 15,
+      "type": "tf",
+      "text": "Nach 5 τ sind Lade- und Entladevorgänge praktisch abgeschlossen. τ = R * C",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P15_7",
+      "page": 15,
+      "type": "tf",
+      "text": "Während des Entladevorganges kehren sich Strom und Spannung am Widerstand um.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P15_8",
+      "page": 15,
+      "type": "tf",
+      "text": "Die Ladungsmenge im Kondensator berechnet sich zu: Q = C * U",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P15_9",
+      "page": 15,
+      "type": "tf",
+      "text": "Die zugeführte Energie wird vom Kondensator gespeichert. Sie beträgt: W = ½ * C * U²",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P16_1",
+      "page": 16,
+      "type": "tf",
+      "text": "Schaltungen mit zwei Eingangs- und zwei Ausgleichsklemmen werden als Vierpole bezeichnet.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P16_2",
+      "page": 16,
+      "type": "tf",
+      "text": "Vierpole (RC-Glieder) arbeiten als Integrierglieder, wenn die Ausgangsspannung am Kondensator abgenommen wird.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P16_3",
+      "page": 16,
+      "type": "tf",
+      "text": "Integrierglieder bilden Mittelwerte. Die Ausgangsspannung hat immer eine unterschiedliche Polarität.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P16_4",
+      "page": 16,
+      "type": "tf",
+      "text": "Vierpole (RC-Glieder) arbeiten als Differenzierglieder, wenn die Ausgangsspannung am Widerstand abgenommen wird.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P16_5",
+      "page": 16,
+      "type": "tf",
+      "text": "Differenzierglieder sind Impulsformer. Die Ausgangsspannung ist immer eine Wechselspannung.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P18_1",
+      "page": 18,
+      "type": "tf",
+      "text": "Magnetische Feldlinien haben einen Anfang und ein Ende. Sie sind nicht in sich geschlossen.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P18_2",
+      "page": 18,
+      "type": "tf",
+      "text": "In einem homogenen Magnetfeld verlaufen Feldlinien nicht parallel.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P18_3",
+      "page": 18,
+      "type": "tf",
+      "text": "Pole sind Orte mit der größten Feldliniendichte. Am Südpol treten Feldlinien aus, am Nordpol treten Feldlinien ein.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P18_4",
+      "page": 18,
+      "type": "tf",
+      "text": "Gleichnamige Pole stoßen sich ab, ungleichnamige Pole ziehen sich an.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P18_5",
+      "page": 18,
+      "type": "tf",
+      "text": "Ferromagnetische Stoffe leiten magnetische Feldlinien etwas schlechter als Luft.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P18_6",
+      "page": 18,
+      "type": "tf",
+      "text": "Paramagnetische Stoffe leiten magnetische Feldlinien etwas besser als Luft.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P18_7",
+      "page": 18,
+      "type": "tf",
+      "text": "Diamagnetische Stoffe leiten magnetische Feldlinien wesentlich besser als Luft.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P18_8",
+      "page": 18,
+      "type": "tf",
+      "text": "Dia- und paramagnetische Stoffe beeinflussen den Feldlinienverlauf sehr stark.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P18_9",
+      "page": 18,
+      "type": "tf",
+      "text": "Ferromagnetische Stoffe haben eine verstärkende Wirkung auf Magnetfelder.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P19_1",
+      "page": 19,
+      "type": "tf",
+      "text": "Ferromagnetische Materialien schwächen durch Elementarmagnete die Wirkung von Magnetfeldern.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P19_2",
+      "page": 19,
+      "type": "tf",
+      "text": "Je nach Eisensorte bleibt durch den Einfluss äußerer Magnetfelder ein Restmagnetismus bzw. Remanenz (B) im Eisen zurück.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P19_3",
+      "page": 19,
+      "type": "tf",
+      "text": "Um die Remanenz abzubauen, muss die Koerzitivfeldstärke (H0) aufgebracht werden.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P19_4",
+      "page": 19,
+      "type": "tf",
+      "text": "Die Magnetisierungskennlinie bzw. Hysteresekurve zeigt den linearen Zusammenhang zwischen der Flussdichte und der Feldstärke.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P19_5",
+      "page": 19,
+      "type": "tf",
+      "text": "Die Steigung µ der Magnetisierungskennlinie ist ein Maß für die verstärkende magnetische Wirkung.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P19_6",
+      "page": 19,
+      "type": "tf",
+      "text": "Permanent- oder Dauermagnete bestehen aus Barium/Strontium/Eisen, Neodym/Eisen/Bor oder Aluminium/Nickel/Kobalt",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P19_7",
+      "page": 19,
+      "type": "tf",
+      "text": "Permanent- oder Dauermagnete zeichnen sich durch eine geringe Koerzitivfeldstärke und eine geringe Remanenz aus.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P20_1",
+      "page": 20,
+      "type": "tf",
+      "text": "Koerzitivfeldstärke und Remanenz sind Temperaturunabhängig.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P20_2",
+      "page": 20,
+      "type": "tf",
+      "text": "Magnetische Feldlinien verlaufen in konzentrischen Kreisen um stromdurchflossene Leiter.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P20_3",
+      "page": 20,
+      "type": "tf",
+      "text": "Magnetische Feldlinien verlaufen im Uhrzeigersinn, wenn der Strom aus der Zeichenebene herausfließt und gegen den Uhrzeigersinn, wenn der Strom in die Zeichenebene hineinfließt.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P20_4",
+      "page": 20,
+      "type": "tf",
+      "text": "Kräfte auf stromdurchflossene Leiter wirken immer gegen Richtung der Feldschwächung",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P20_5",
+      "page": 20,
+      "type": "tf",
+      "text": "Gleichsinnig stromdurchflossene Leiter ziehen sich an und gegensinnig stromdurchflossene Leiter stoßen sich ab.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P21_1",
+      "page": 21,
+      "type": "tf",
+      "text": "Bewegen sich magnetische Felder relativ zu Spulen, werden in den Spulen Spannungen induziert. Induktion der Bewegung.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P21_2",
+      "page": 21,
+      "type": "tf",
+      "text": "Beim Transformator werden durch zeitlich veränderbare Magnetfelder Spannungen in feststehenden Spulen induziert. Induktion der Ruhe.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P21_3",
+      "page": 21,
+      "type": "tf",
+      "text": "Jeder von einer induzierten Spannung hervorgerufene Strom ist so gerichtet, dass sein Magnetfeld der Ursache seiner Entstehung mitwirkt (Lenzsche Regel).",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P21_4",
+      "page": 21,
+      "type": "tf",
+      "text": "Wirbelströme sind in den meisten elektrischen Maschinen erwünscht und werden daher durch geeignete Maßnahmen verstärkt.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P21_5",
+      "page": 21,
+      "type": "tf",
+      "text": "Die Induktivität ist abhängig von der Windungszahl der Spule, den geometrischen Abmessungen sowie der Permeabilität des Kerns.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P21_6",
+      "page": 21,
+      "type": "tf",
+      "text": "Die Induktivität ist für Spulen ohne Eisenkern eine variable Größe.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P22_1",
+      "page": 22,
+      "type": "tf",
+      "text": "Die Selbstinduktionsspannung ist von der Induktivität völlig unabhängig.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P22_2",
+      "page": 22,
+      "type": "tf",
+      "text": "Die Selbstinduktionsspannung wirkt in Richtung der angelegten Spannung und verstärkt somit den Strom in Wechselstromkreisen.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P22_3",
+      "page": 22,
+      "type": "tf",
+      "text": "Die Selbstinduktionsspannung ist verantwortlich für den so genannten „Blindwiderstand“",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P22_4",
+      "page": 22,
+      "type": "tf",
+      "text": "Im Vergleich mit dem elektrischen Feld ergeben sich gleiche zeitliche Verläufe. Dabei ist der Stromverlauf der Induktivität identisch mit dem Spannungsverlauf der Kapazität.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P22_5",
+      "page": 22,
+      "type": "tf",
+      "text": "τ ist die Zeit, in der sich der Strom immer um 63% - bezogen auf den Endwert – ändert.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P22_6",
+      "page": 22,
+      "type": "tf",
+      "text": "Integrierschaltungen (I-Glied) verwandeln lange Eingangssignale in kurze Ausgangsimpulse.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P22_7",
+      "page": 22,
+      "type": "tf",
+      "text": "Differenzierschaltungen (D-Glied) bilden elektronisch den Mittelwert.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P23_1",
+      "page": 23,
+      "type": "tf",
+      "text": "Stromtransformation: U1/U2 = N1/N2 = ü",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P23_2",
+      "page": 23,
+      "type": "tf",
+      "text": "Spannungstransformation: I1/I2 = N2/N1 = 1/ü",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P23_3",
+      "page": 23,
+      "type": "tf",
+      "text": "Widerstandstransformation (Impedanzwandler): Z1/Z2 = (N1/N2)² = ü²",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P23_4",
+      "page": 23,
+      "type": "tf",
+      "text": "Gesamtverluste im Transformator: Pv ges = P v Cu - Pv Fe + Pv Streu",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P23_5",
+      "page": 23,
+      "type": "tf",
+      "text": "Die Blindleistung ist für den Aufbau des magnetischen Feldes ohne Bedeutung.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P23_6",
+      "page": 23,
+      "type": "tf",
+      "text": "Die Kurzschlussspannung UK ist die Spannung, die bei kurzgeschlossener Sekundärwicklung den primärseitigen Bemessungsstrom fließen lässt.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P23_7",
+      "page": 23,
+      "type": "tf",
+      "text": "Die Impedanz ZK begrenzt die Stromaufnahme im Kurzschlussfall.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P23_8",
+      "page": 23,
+      "type": "tf",
+      "text": "Die Ausgangsspannung kann je nach Belastung ansteigen (kapazitive Last) oder abfallen (ohmsche oder induktive Last).",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P24_1",
+      "page": 24,
+      "type": "tf",
+      "text": "Die Wicklungen von Drehstromtransformatoren können in Dreieck-, Stern- oder Ringschaltung zusammengeschaltet sein, um große Ströme oder Spannungen zu beherrschen.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P24_2",
+      "page": 24,
+      "type": "tf",
+      "text": "Beim Parallelschalten von Drehstromtransformatoren müssen die folgenden Bemessungsgrößen zusammenpassen: Frequenz, Spannung, Leistung, Kurzschlussspannung und Schaltgruppe.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P24_3",
+      "page": 24,
+      "type": "tf",
+      "text": "Der Wirkungsgrad η von Transformatoren ist außer von den Kupferverlusten und Eisenverlusten auch noch von der Art und der Höhe der Belastung abhängig.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P24_4",
+      "page": 24,
+      "type": "tf",
+      "text": "Der Jahreswirkungsgrad ηa beschreibt den wirtschaftlichen Einsatz eines Transformators innerhalb eines bestimmten Zeitraums- meist ein Jahr.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P24_5",
+      "page": 24,
+      "type": "tf",
+      "text": "Neben z.B. Sicherungen, Bimetallrelais, Thermometern und Leistungsschaltern können gegen die Folgen einer Überlastung, z.B. durch eine defekte Isolation in Ölgekühlten Transformatoren, so genannte Buchholzrelais eingesetzt werden.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P25_1",
+      "page": 25,
+      "type": "tf",
+      "text": "Spartransformatoren besitzen eine galvanische Trennung.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P25_2",
+      "page": 25,
+      "type": "tf",
+      "text": "Spartransformatoren benötigen bei großen Spannungsdifferenzen zwischen der Ein- und Ausgangsspannung nur wenig Material.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P25_3",
+      "page": 25,
+      "type": "tf",
+      "text": "Spartransformatoren haben damit eine wesentlich geringere Durchgangsleistung im Verhältnis zur Belastung.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P25_4",
+      "page": 25,
+      "type": "tf",
+      "text": "Schweißtransformatoren besitzen als Streufeldtransformatoren Steuereinrichtungen, um den Schweißstrom einzustellen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P25_5",
+      "page": 25,
+      "type": "tf",
+      "text": "Spannungswandler werden zur Messung sehr kleiner Spannungen eingesetzt.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P25_6",
+      "page": 25,
+      "type": "tf",
+      "text": "Spannungswandler sind nicht kurzschlussfest und würden in diesem Betriebsfall zerstört.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P25_7",
+      "page": 25,
+      "type": "tf",
+      "text": "Stromwandler werden zur Messung sehr kleiner Ströme eingesetzt",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P25_8",
+      "page": 25,
+      "type": "tf",
+      "text": "Stromwandler müssen im Kurzschluss betrieben werden, sie würden im Leerlaufbetrieb wegen zu hoher Spannung am Ausgang zerstört.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P26_1",
+      "page": 26,
+      "type": "tf",
+      "text": "Ein Motor muss aufgrund sehr hoher Fliehkräfte besonders sorgfältig aufgebaut und gut isoliert sein.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P26_2",
+      "page": 26,
+      "type": "tf",
+      "text": "Bei einem Gleichstrom-Motor wird den Spulen der Ankerwicklung der Strom über den Kommutator und die auf ihm schleifenden Bürsten zugeführt.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P26_3",
+      "page": 26,
+      "type": "tf",
+      "text": "Im Gleichstrom-Motor arbeitet der Kommutator als mechanischer Gleichrichter und der Kollektor als mechanischer Wechselrichter.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P26_4",
+      "page": 26,
+      "type": "tf",
+      "text": "Das Ankerquerfeld verläuft parallel zum Erregerfeld.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P26_5",
+      "page": 26,
+      "type": "tf",
+      "text": "Die Ankerrückwirkung kann im Bereich der Erregerwicklung durch das Feld einer Wendepolwicklung korrigiert werden.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P26_6",
+      "page": 26,
+      "type": "tf",
+      "text": "Die Ankerrückwirkung kann im Bereich der neutralen Zone durch das Feld der Kompensationswicklung korrigiert werden.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P26_7",
+      "page": 26,
+      "type": "tf",
+      "text": "Bei Gleichstrom-Motoren folgt in Drehrichtung auf einen Erregerpol ein ungleichnamiger Wendepol.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P26_8",
+      "page": 26,
+      "type": "tf",
+      "text": "Bei Gleichstrom-Generatoren folgt in Drehrichtung auf einen Erregerpol ein gleichnamiger Wendepol.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P27_1",
+      "page": 27,
+      "type": "tf",
+      "text": "Nebenschlussmotor und Fremderregter Motor: Erregerwicklung und Ankerwicklung liegen parallel bzw. an unterschiedlichen Spannungsquellen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P27_2",
+      "page": 27,
+      "type": "tf",
+      "text": "Die Drehzahl ändert sich bei Belastung nur geringfügig n ≈ konst.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P27_3",
+      "page": 27,
+      "type": "tf",
+      "text": "Das Drehmoment ändert sich umgekehrt proportional mit dem Laststrom M ~ 1/I.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P27_4",
+      "page": 27,
+      "type": "tf",
+      "text": "Eingesetzt wird der Nebenschlussmotor dort, wo konstante Drehzahlen erforderlich sind",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P27_5",
+      "page": 27,
+      "type": "tf",
+      "text": "Reihenschlussmotor: Erregerwicklung und Ankerwicklung liegen in Reihe.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P27_6",
+      "page": 27,
+      "type": "tf",
+      "text": "Die Drehzahl ändert sich proportional mit der Belastung n ~ M.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P27_7",
+      "page": 27,
+      "type": "tf",
+      "text": "Das Drehmoment ändert sich umgekehrt proportional mit dem Quadrat des Laststroms M ~ 1/I².",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P27_8",
+      "page": 27,
+      "type": "tf",
+      "text": "Eingesetzt wird der Reihenschlussmotor dort, wo hohe Drehmomente erforderlich sind, wie z.B. bei Straßenbahnen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P28_1",
+      "page": 28,
+      "type": "tf",
+      "text": "Doppelschlussmotor: Kombination aus überwiegend Nebenschluss- und unterstützendem Reihenschlussanteil.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P28_2",
+      "page": 28,
+      "type": "tf",
+      "text": "Die Eigenschaften richten sich danach, wie die Nebenschlusswicklung und die Reihenschlusswicklung dimensioniert und zusammengeschaltet sind.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P28_3",
+      "page": 28,
+      "type": "tf",
+      "text": "Eingesetzt wird der Doppelschlussmotor dort, wo keine Leerlauf und keine Stoßbelastungen zu erwarten sind.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P28_4",
+      "page": 28,
+      "type": "tf",
+      "text": "Die Drehrichtung kann bei allen Motoren durch Änderung der Stromrichtung in der Ankerwicklung oder in der Erregerwicklung geändert werden",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P28_5",
+      "page": 28,
+      "type": "tf",
+      "text": "Die Drehzahl kann bei allen Motoren durch Änderung der Klemmenspannung oder Änderung des Erregerfeldes variiert werden.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P29_1",
+      "page": 29,
+      "type": "tf",
+      "text": "Der Drehstromasynchronmotor setzt sich aus dem Ständer (Stator) und dem Läufer (Rotor) zusammen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P29_2",
+      "page": 29,
+      "type": "tf",
+      "text": "Die drei Stränge (U, V, W) können im Stern Y oder im Dreieck ∆ zusammengeschaltet werden.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P29_3",
+      "page": 29,
+      "type": "tf",
+      "text": "Die Drehfeldrehzahl n0 ist abhängig von der Schaltung: n0 = (f * 60)/p",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P29_4",
+      "page": 29,
+      "type": "tf",
+      "text": "Der Schlupf ist unabhängig von der Belastung: s = (n0-n)/n0",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P29_5",
+      "page": 29,
+      "type": "tf",
+      "text": "Die vier markanten Momente sind das Anzugsmoment (MA), das Sattelmoment (MS), das Kippmoment (MK) und das Bemessungsmoment (Mr).",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P29_6",
+      "page": 29,
+      "type": "tf",
+      "text": "Antriebsmaschinen (Motoren) müssen für die Bedürfnisse der Arbeitsmaschine (Last) dimensioniert werden.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P29_7",
+      "page": 29,
+      "type": "tf",
+      "text": "Das gezielte Stillsetzen von Motoren geschieht mechanisch durch Federkraft oder elektrisch in Form von Gleichstrombremsung, Gegenstrombremsung oder generatorischem Bremsen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P30_1",
+      "page": 30,
+      "type": "tf",
+      "text": "Schleifringläufermotoren mit Anlasswiderständen reduzieren das Anzugsmoment und erhöhen den Anlaufstrom.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P30_2",
+      "page": 30,
+      "type": "tf",
+      "text": "Schleifringläufermotoren mit in Reihe geschalteten Läuferkreisen arbeiten als „elektrische Welle“.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P30_3",
+      "page": 30,
+      "type": "tf",
+      "text": "Schleifringläufermotoren mit Ständer- und Läuferwicklung am Netz arbeiten als „Drehtransformatoren“.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P30_4",
+      "page": 30,
+      "type": "tf",
+      "text": "Dahlandermotoren liefern aus einer Ständerwicklung durch Umschaltung zwei Drehzahlen im Verhältnis 3:1.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P30_5",
+      "page": 30,
+      "type": "tf",
+      "text": "Wechselstrommotoren erzeugen elliptische Drehfelder. Wirkungsgrad η und Leistungsfaktor cos φ sind günstig.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P30_6",
+      "page": 30,
+      "type": "tf",
+      "text": "Universalmotoren sind vom Aufbau und Betriebsverhalten her Nebenschlussmotoren.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P30_7",
+      "page": 30,
+      "type": "tf",
+      "text": "Universalmotoren lassen sich in der Drehzahl sehr einfach über gesteuerte Gleichrichterschaltungen oder über Wechselstromsteller regeln.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P31_1",
+      "page": 31,
+      "type": "tf",
+      "text": "Bei Synchronmaschinen haben Läufer- und Ständerdrehfeld unterschiedliche Drehzahlen.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P31_2",
+      "page": 31,
+      "type": "tf",
+      "text": "Der Synchronmotor benötigt keine Anlaufhilfen.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P31_3",
+      "page": 31,
+      "type": "tf",
+      "text": "Bei Überlastung fällt der Synchronmotor „außer Tritt“.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P31_4",
+      "page": 31,
+      "type": "tf",
+      "text": "Als Phasenschiebermotor liefert der übererregte Synchronmotor induktive Blindleistung ins Netz.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P31_5",
+      "page": 31,
+      "type": "tf",
+      "text": "Synchronmotoren werden nur als Außenpolmaschinen gebaut.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P31_6",
+      "page": 31,
+      "type": "tf",
+      "text": "Beim Zusammenschalten mehrerer Synchrongeneratoren müssen die Reihenschaltbedingungen beachtet werden.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P31_7",
+      "page": 31,
+      "type": "tf",
+      "text": "Die Dämpfwicklung begrenzt Pendelerscheinungen bei schnellen Laständerungen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P31_8",
+      "page": 31,
+      "type": "tf",
+      "text": "Beim Synchronmotor wirkt die Dämpfwicklung wie eine Läufer-Kurzschlusswicklung und unterstützt damit den Selbstlauf.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P33_1",
+      "page": 33,
+      "type": "tf",
+      "text": "Kontaktbehaftete Schaltgeräte bestehen aus Antriebsglied, mechanischem Zwischenglied und Schaltglied.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P33_2",
+      "page": 33,
+      "type": "tf",
+      "text": "Schaltgeräte werden in Stromlaufplänen immer in betätigter Stellung gezeichnet.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P33_3",
+      "page": 33,
+      "type": "tf",
+      "text": "Schaltglieder in Ruhestellung werden in Stromlaufplänen mit einem Doppelpfeil gekennzeichnet.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P33_4",
+      "page": 33,
+      "type": "tf",
+      "text": "Die Arbeitsrichtung der Schaltglieder ist immer von rechts (Ruhelage) nach links (betätigt) gerichtet.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P33_5",
+      "page": 33,
+      "type": "tf",
+      "text": "Alle Schaltglieder und Antriebe sind mit Kennbuchstaben zu versehen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P33_6",
+      "page": 33,
+      "type": "tf",
+      "text": "Übersichtsschaltpläne sind vereinfachte, einpolig gezeichnete Hauptstromkreise.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P33_7",
+      "page": 33,
+      "type": "tf",
+      "text": "Soll die Funktion eines Steuerstromkreises (Hilfsstromkreises) leicht erkennbar sein, ist er in aufgelöster Darstellung zu zeichnen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P33_8",
+      "page": 33,
+      "type": "tf",
+      "text": "Umfangreiche Schaltungsunterlagen können nach DIN 40 719 angefertigt werden (Querverweise).",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P34_1",
+      "page": 34,
+      "type": "tf",
+      "text": "Der Übergangswiderstand eines Schaltkontaktes ergibt sich wie folgt: Übergangswiderstand = Engewiderstand - Fremdwiderstand",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P34_2",
+      "page": 34,
+      "type": "tf",
+      "text": "Die Funkenbildung ist in Wechselstromkreisen stärker ausgebildet als in Gleichstromkreisen.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P34_3",
+      "page": 34,
+      "type": "tf",
+      "text": "Löschkammern mit Kühlblechen sowie magnetische Beblasung dienen als Verschmutzungsschutz.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P34_4",
+      "page": 34,
+      "type": "tf",
+      "text": "Das Schaltvermögen von Schaltgeräten gibt an, welchen maximalen Strom das Schaltgerät schalten kann.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P34_5",
+      "page": 34,
+      "type": "tf",
+      "text": "Die Lebensdauer von Schaltgeräten richtet sich nach der Anzahl der Schaltspiele",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P34_6",
+      "page": 34,
+      "type": "tf",
+      "text": "Die Schalthäufigkeit von Schaltgeräten ist abhängig von den Schaltspielen pro Stunde.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P34_7",
+      "page": 34,
+      "type": "tf",
+      "text": "Schalter werden nach Schaltvermögen und Farbe eingeteilt.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P35_1",
+      "page": 35,
+      "type": "tf",
+      "text": "Relais sind elektrisch betätigte Schalter für relativ große Leistungen.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P35_2",
+      "page": 35,
+      "type": "tf",
+      "text": "Der Zeitablauf bei Anzugsverzögerten Zeitrelais beginnt beim Abschalten der Steuerspannung.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P35_3",
+      "page": 35,
+      "type": "tf",
+      "text": "Der Zeitablauf bei Abfallverzögerten Zeitrelais beginnt beim Anlegen der Steuerspannung.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P35_4",
+      "page": 35,
+      "type": "tf",
+      "text": "Das Verhalten von Zeitrelais wird durch das Fallschirmsymbol verdeutlicht.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P35_5",
+      "page": 35,
+      "type": "tf",
+      "text": "Schaltgeräte mit begrenzter Einschaltdauer müssen freigeschaltet werden.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P35_6",
+      "page": 35,
+      "type": "tf",
+      "text": "Zeitrelais müssen sich direkt selbst freischalten.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P35_7",
+      "page": 35,
+      "type": "tf",
+      "text": "Wischer sind Hilfskontakte, die beim Ein- oder Ausschalten kurzzeitig schließen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P35_8",
+      "page": 35,
+      "type": "tf",
+      "text": "Stromstoßschalter werden impulsartig betrieben, sie verklinken in ihrer jeweiligen Schaltstellung.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P35_9",
+      "page": 35,
+      "type": "tf",
+      "text": "Stormrelais werden zur Überwachung von Lastströmen oder für Verriegelungsaufgaben eingesetzt.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P36_1",
+      "page": 36,
+      "type": "tf",
+      "text": "Isolationswächter überwachen den Isolationswiderstand von geerdeten Netzen.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P36_2",
+      "page": 36,
+      "type": "tf",
+      "text": "Wächter überwachen, ob sich Messgrößen innerhalb eines zulässigen Bereiches befinden.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P36_3",
+      "page": 36,
+      "type": "tf",
+      "text": "Schütze sind elektromagnetisch betätigte Schalter.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P36_4",
+      "page": 36,
+      "type": "tf",
+      "text": "Hauptschütze werden in Steuerstromkreisen (Hilfsstromkreisen) eingesetzt.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P36_5",
+      "page": 36,
+      "type": "tf",
+      "text": "Hilfsschütze werden en Laststromkreisen eingesetzt.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P36_6",
+      "page": 36,
+      "type": "tf",
+      "text": "Bei Schützen ist die Ansteuerleistung kleiner als die Halteleistung.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P36_7",
+      "page": 36,
+      "type": "tf",
+      "text": "Elektronische Halterelais (ELR) können kontaktbehaftete Schütze ersetzen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P36_8",
+      "page": 36,
+      "type": "tf",
+      "text": "Die Kennzahl gibt bei Schützen die Zahl der Schließer und Öffner an.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P36_9",
+      "page": 36,
+      "type": "tf",
+      "text": "Gekapselte Schütze werden bei rauen Umgebungsbedingungen eingesetzt.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P36_10",
+      "page": 36,
+      "type": "tf",
+      "text": "Hilfskontakte werden einstellig bezeichnet, zweistellig Hauptkontakte.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P37_1",
+      "page": 37,
+      "type": "tf",
+      "text": "Genormte Steckverbindungen stellen Leitungsverbindungen sicher her.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P37_2",
+      "page": 37,
+      "type": "tf",
+      "text": "Die Schutzkontakt-Steckdose hat einen Vorgelagerten Schutzkontakt. Sie gehört zu den polverwechselbaren Stecksystemen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P37_3",
+      "page": 37,
+      "type": "tf",
+      "text": "Schutzisolierte Verbraucher verwenden den Eurostecker (IN = 2,5 A) oder den Konturenstecker (IN = 16 A).",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P37_4",
+      "page": 37,
+      "type": "tf",
+      "text": "Polunverwechselbare Perilex-Steckverbinder verbinden Drehstromverbraucher in Wohnungen oder gewerblichen Räumen mit dem Stromnetz.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P37_5",
+      "page": 37,
+      "type": "tf",
+      "text": "Perilex-Steckverbinder sind mechanisch robuster als z.B. CEE-Steckvorrichtungen.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P37_6",
+      "page": 37,
+      "type": "tf",
+      "text": "Die Position des Schutzkontaktes relativ zur Passnut gibt die so genannte Uhrzeitstellung an.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P37_7",
+      "page": 37,
+      "type": "tf",
+      "text": "Pilotkontakte von CEE-Steckvorrichtungen ermöglichen ein lastloses Herstellen und Trennen von Steckverbindungen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P37_8",
+      "page": 37,
+      "type": "tf",
+      "text": "Pilotkontakte steuern ein Lastschütz, das in der Dose eingebaut ist.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P37_9",
+      "page": 37,
+      "type": "tf",
+      "text": "CEE-Steckvorrichtungen sind durch Passnut und unterschiedliche Kontaktdurchmesser polunverwechselbar.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P38_1",
+      "page": 38,
+      "type": "tf",
+      "text": "Schmelzsicherungen haben einen dem Nennstrom entsprechenden Durchmesser.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P38_2",
+      "page": 38,
+      "type": "tf",
+      "text": "Schmelzsicherungen dienen dem Kurzschlussschutz und dem Überlastschutz von Kabeln und Leitungen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P38_3",
+      "page": 38,
+      "type": "tf",
+      "text": "Schmelzsicherungen sind Schutzorgane, die bei Kurzschlüssen am schnellsten auslösen können.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P38_4",
+      "page": 38,
+      "type": "tf",
+      "text": "Schmelzsicherungen dürfen dauernd in der Nähe ihres Nennstromes betrieben werden.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P38_5",
+      "page": 38,
+      "type": "tf",
+      "text": "Schmelzsicherungen können in wenigen ms auslösen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P38_6",
+      "page": 38,
+      "type": "tf",
+      "text": "Schmelzsicherungen gibt es mit unterschiedlichen Auslösecharakteristiken (z.B. Ganzbereichs- oder Teilbereichsschutz).",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P38_7",
+      "page": 38,
+      "type": "tf",
+      "text": "Schmelzsicherungen verhalten sich bei bestimmten Abstufungsfaktoren zueinander selektiv.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P38_8",
+      "page": 38,
+      "type": "tf",
+      "text": "Schmelzsicherungen haben ein geringes Schaltvermögen.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P38_9",
+      "page": 38,
+      "type": "tf",
+      "text": "Schmelzsicherungen dürfen als Überlastungsschutz von elektrischen Maschinen eingesetzt werden.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P38_10",
+      "page": 38,
+      "type": "tf",
+      "text": "Schmelzsicherungen haben einen Abschaltstrom, der größer ist als der Nennstrom, aber kleiner ist als der maximal mögliche Kurzschlussstrom.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P39_1",
+      "page": 39,
+      "type": "tf",
+      "text": "Leitungsschutzschalter schützen Leitungen und Geräte nur vor Kurzschluss.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P39_2",
+      "page": 39,
+      "type": "tf",
+      "text": "Für Beleuchtungs- und Steckdosenstromkreise wird der C-Automat eingesetzt, für Motorstromkreise der B-Automat.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P39_3",
+      "page": 39,
+      "type": "tf",
+      "text": "Motorschutzschalter besitzen mindestens einen thermischen Überstromauslöser. Dieser lässt sich auf den Motornennstrom einstellen.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P39_4",
+      "page": 39,
+      "type": "tf",
+      "text": "Die Funktionsfähigkeit eines Motorschutzschalters lässt sich nur durch eine Strommessung und einen Vergleich mit seiner Kennlinie überprüfen",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P39_5",
+      "page": 39,
+      "type": "tf",
+      "text": "Motorschutzschalter müssen nicht vorgesichert werden, wenn ihr Schaltvermögen für die zu erwartenden Kurzschlussströme nicht ausreichend ist.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P39_6",
+      "page": 39,
+      "type": "tf",
+      "text": "Leistungsschalter haben ein sehr geringes Schaltvermögen. Sie sind nur mit einem Kurzschlussstromauslöser ausgestattet.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P39_7",
+      "page": 39,
+      "type": "tf",
+      "text": "In Stellschaltungen müssen Bimetallrelais auf „Hand“ oder „manuell“ geschaltet werden.",
+      "correct": "falsch",
+      "correct_bool": false
+    },
+    {
+      "id": "P39_8",
+      "page": 39,
+      "type": "tf",
+      "text": "Unter Motorvollschutz versteht man die tatsächliche Temperaturüberwachung der Motorenwicklung.",
+      "correct": "richtig",
+      "correct_bool": true
+    },
+    {
+      "id": "P39_9",
+      "page": 39,
+      "type": "tf",
+      "text": "Bimetallrelais werden für den Motorschutz eingesetzt. Befinden sie sich im Außenleiter der Motorzuleitung, müssen sie nicht auf dem Motorennennstrom eingestellt werden.",
+      "correct": "falsch",
+      "correct_bool": false
+    }
+  ],
+  "grundlagen": [
+    {
+      "id": "G1",
+      "title": "Atome/Moleküle (4)",
+      "text": "Welche Aussagen sind richtig?",
+      "num_correct": 4,
+      "options": [
+        {
+          "label": "A",
+          "text": "Teilchen, die sich auf chemischem Wege nicht mehr trennen lassen heißen Atome.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Moleküle sind Verbindungen aus Atomen, die sich nicht auf chemischen Wege trennen lassen.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Die Aggregatszustände werden im Wesentlichen von der Temperatur und den Molekularkräften eines Stoffes bestimmt.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Temperaturdifferenzen (Δυ) werden in K (Kelvin) angegeben.",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Ein Atom besteht aus Atomkern und Elektronenhülle.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "G2",
+      "title": "Atome/Moleküle (2)",
+      "num_correct": 2,
+      "options": [
+        {
+          "label": "A",
+          "text": "Elektronen sind elektrisch positiv, Protonen elektrisch negativ geladen.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Die Zahl der Protonen und die Zahl der Elektronen ist im elektrisch neutralen Zustand des Atoms gleich.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Die Ionenbindung beruht auf der elektrischen Anziehung zwischen Ionen",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Durch Elektronenaufnahme entsteht aus einem Atom ein positives Ion.",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Durch die Elektronenabgabe entsteht aus einem Atom ein negatives Ion.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "G3",
+      "title": "Atome/Moleküle (2)",
+      "num_correct": 2,
+      "options": [
+        {
+          "label": "A",
+          "text": "Ionenverbindungen können z.B. in Flüssigkeiten aufbrechen und elektrische Leitfähigkeit verursachen (Elektrolyt).",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Die Atombindung in Halbleitern führt zur Eigenleitung. Sie ist stark temperaturabhängig.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Die losgelösten freien Valenzelektronen bewegen sich zwischen den positiven Metallionen und sorgen deshalb für eine schlechte elektrische Leitfähigkeit.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Die gute Verformbarkeit der Metalle ergibt sich aus einer sehr unsymmetrischen Gitterstruktur.",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Bei Temperaturerhöhung steigt die elektrische Leitfähigkeit der Metalle, da die Beweglichkeit der freien Elektronen abnimmt.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "G4",
+      "title": "Elektrische Spannung/Potential (3)",
+      "num_correct": 3,
+      "options": [
+        {
+          "label": "A",
+          "text": "Elektrische Spannung oder Potentialdifferenz ist das Ausgleichsbestreben elektrischer Ladungen zwischen zwei Punkten unterschiedlichen Potentials.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Als Potential bezeichnet man einen Spannungswert, der sich auf einen festgelegten Punkt – z.B. Masse oder 0V – bezieht.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Eine Spannung oder Potentialdifferenz wird innerhalb einer elektrischen Schaltung durch einen Spannungswert und einen Spannungszählpfeil beschrieben.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Spannungszählpfeile verlaufen jeweils zwischen zwei Punkten gleichen Potentials.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "G5",
+      "title": "Elektrische Ladung (1)",
+      "num_correct": 1,
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Einheit für die elektrische Ladung ist Coulomb oder Ampèresekunde.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Gleichnamige elektrische Ladungen ziehen einander an.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ungleichnamige elektrische Ladungen stoßen einander ab.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "G6",
+      "title": "Elektrischer Strom (3)",
+      "num_correct": 3,
+      "options": [
+        {
+          "label": "A",
+          "text": "Elektrischer Strom I ist ein Maß für die Ladung Q, die pro Sekunde einen Leiterquerschnitt durcheilt.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Elektrischer Strom ist die gerichtete Bewegung von Ladungsträgern",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "In Metallen und im Vakuum ist elektrischer Strom die gerichtete Bewegung von Elektronen.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "In nicht leitenden Flüssigkeiten – so genannten Elektrolyten – ist elektrischer Strom die gerichtete Bewegung von positiv und negativ geladenen Ionen.",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Die technische Stromrichtung verläuft unabhängig vom Ladungsträgertyp außerhalb der Stromquelle immer vom Minuspol zum Pluspol.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "G7",
+      "title": "Stromdichte (1)",
+      "num_correct": 1,
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Stromdichte ist ein relatives Maß für die Fließgeschwindigkeit der Elektronen außerhalb eines Leiters.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "Der absolute Wert der Elektronengeschwindigkeit ist abhängig von der Stromdichte J, vom Werkstoff und von dessen Temperatur.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Mit steigender Stromdichte nimmt die in einem Leiter entstehende Wärme ab.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "G8",
+      "title": "Spannungserzeugung (4)",
+      "num_correct": 4,
+      "options": [
+        {
+          "label": "A",
+          "text": "durch Änderung eines magnetischen Feldes, das auf einen Leiter einwirkt (Induktion).",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "durch Druck auf bestimmte Kristalle (Piezoeffekt).",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "durch Verringern der Temperatur außerhalb des Leiters (Reduktion).",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "mit Hilfe von Licht, das in die Raumladungszone zwischen unterschiedlich dotierten Halbleiterwerkstoffen einfällt (fotoelektronischer Effekt, Fotoelement).",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "durch die Berührung oder Reibung verschiedener Stoffe",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "G9",
+      "title": "Ohmsches Gesetz (2)",
+      "num_correct": 2,
+      "options": [
+        {
+          "label": "A",
+          "text": "Das Ohmsche Gesetz setzt voraus, dass der Widerstand seinen Wert verändert.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "R ist nicht konstant und nicht linear.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Im U-I-Diagramm erscheinen lineare Widerstände als Gerade.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Lineare Widerstände können durch Strom-Spannungsänderungen ermittelt werden.",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "R = ∆ I / ∆ U",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "G10",
+      "title": "Leitwert (2)",
+      "num_correct": 2,
+      "options": [
+        {
+          "label": "A",
+          "text": "G = 1 / R",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Ein kleiner Leitwert ermöglicht eine gute Stromleitung.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Ein großer Leitwert hemmt den Stromfluss.",
+          "correct": false
+        },
+        {
+          "label": "D",
+          "text": "Ein Kurzschluss ist sehr leitfähig bzw. der Leitwert ist sehr groß.",
+          "correct": true
+        },
+        {
+          "label": "E",
+          "text": "Eine Unterbrechung ist nicht leitend, der Leitwert ist unendlich groß.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "G11",
+      "title": "Reihenschaltung (2)",
+      "num_correct": 2,
+      "options": [
+        {
+          "label": "A",
+          "text": "Bei der Reihenschaltung verhalten sich Spannungen und Widerstände umgekehrt proportional zueinander.",
+          "correct": false
+        },
+        {
+          "label": "B",
+          "text": "In der Reihenschaltung addieren sich die Widerstände, die Spannungen teilen sich proportional auf.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Der eingestellte Strom fließt durch Widerstände und Quellen.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Der ideale Schalter hat im offenen Zustand einen Widerstand nahe 0 Ω, dagegen im geschossenen Zustand einen sehr großen Widerstand.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "G12",
+      "title": "Parallelschaltung (3)",
+      "num_correct": 3,
+      "options": [
+        {
+          "label": "A",
+          "text": "Die Parallelschaltung versorgt alle Widerstände mit der angeklemmten Spannung.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Der größte Strom fließt über den kleinsten Widerstand, d.h. über den größten Leitwert.",
+          "correct": true
+        },
+        {
+          "label": "C",
+          "text": "Der Gesamtstrom einer Parallelschaltung ist gleich der Summe aller Einzelströme.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Der Gesamtwiderstand einer Parallelschaltung ist immer größer als der größte Einzelwiderstand.",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Die Leitfähigkeit einer Parallelschaltung nimmt zu, je weniger Widerstände parallel geschaltet werden.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "G13",
+      "title": "Gemischte Schaltungen (3)",
+      "num_correct": 3,
+      "options": [
+        {
+          "label": "A",
+          "text": "Gemischte Schaltungen sind Netzwerke von Widerständen oder Bauelementen.",
+          "correct": true
+        },
+        {
+          "label": "B",
+          "text": "Gemischte Schaltungen enthalten nur Parallelschaltungen.",
+          "correct": false
+        },
+        {
+          "label": "C",
+          "text": "Widerstände, die durch reine Grundschaltungen (Parallel- oder Reihenschaltung) verbunden sind, werden für Berechnungen zusammengefasst und durch einen Einzelwiderstand dargestellt.",
+          "correct": true
+        },
+        {
+          "label": "D",
+          "text": "Durch schrittweises Vereinfachen ist es möglich, als Ergebnis wieder eine Grundschaltung zu erhalten.",
+          "correct": false
+        },
+        {
+          "label": "E",
+          "text": "Teilströme und Teilspannungen lassen sich aus den jeweiligen Ersatzschaltbildern berechnen.",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
